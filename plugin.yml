@@ -1,0 +1,7 @@
+name: IncreasePacketLimit
+version: 1.0
+main: GamerZone7s\IncreasePacketLimit\Main
+api: 5.0.0
+description: "Adjusts packet limits in PocketMine-MP servers to handle larger network traffic efficiently."
+youtube: https://www.youtube.com/c/GamerZone7s
+website: https://indianzone7s.blogspot.com/
